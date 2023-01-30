@@ -5,7 +5,7 @@
   Description: A sample plugin that contains all the boilerplate required to make a React Typescript Wordpress plugin. 
   Version: 1.0
   Author: Brad & Jagerbob
-  Author URI: https://github.com/LearnWebCode
+  Author URI: https://github.com/jagerbob/react-ts-wp-plugin-sample
 */
 
 if( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly

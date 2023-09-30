@@ -1,3 +1,5 @@
+![Wordpress - Github Banner](https://github.com/jagerbob/bob-wordpress-plugin-template/assets/91737697/28373f8d-d7ec-49f9-b5c9-15e83a559edf)
+
 # ⚒️ React & Typescript Wordpress plugin sample ⚒️
 A sample plugin that contains all the boilerplate required to make a React & Typescript Wordpress plugin
 
